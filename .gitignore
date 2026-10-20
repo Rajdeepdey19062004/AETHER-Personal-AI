@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+
+# Local secrets and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# User data and generated runtime state
+data/users/
+data/documents/
+data/index/
+data/logs/
+data/aether.sqlite3*
+data/chats.json
+
+# Test and tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

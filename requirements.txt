@@ -1,0 +1,7 @@
+streamlit
+requests
+numpy
+sentence-transformers
+pypdf
+python-docx
+pytest
